@@ -1,0 +1,11 @@
+Livre 
+idEtudiant,idLivre,date,remise
+2,7,1,true
+2,7,4343,true
+2,7,5454,true
+2,7,6666,false
+2,7,4345,false
+5,7,5656,true
+5,7,7878,false
+5,10,7887,false
+5,10,66666,false
